@@ -29,7 +29,7 @@ while (i < 10):
 			print("You lose..")
 			com_win += 1
 		if user == "Paper":
-			print("You win!!")
+			print("You win!..!")
 			user_win += 1
 	if computer == "Scissors":
 		if user == "Rock":
