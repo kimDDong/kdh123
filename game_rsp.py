@@ -38,7 +38,7 @@ while (i < 10):
 		if user == "Scissors":
 			print("Draw!")
 		if user == "Paper":
-			print("You lose..")
+			print("You lose.!!!!!!!!!!!.")
 			com_win += 1
 	if computer == "Paper":
 		if user == "Rock":
