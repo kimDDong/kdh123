@@ -33,7 +33,7 @@ while (i < 10):
 			user_win += 1
 	if computer == "Scissors":
 		if user == "Rock":
-			print("You win!!")
+			print("You win!!!!!!!!!!!")
 			user_win += 1
 		if user == "Scissors":
 			print("Draw!")
