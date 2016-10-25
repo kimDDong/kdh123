@@ -26,29 +26,29 @@ while (i < 10):
 		if user == "Rock":
 			print("Draw!")
 		if user == "Scissors":
-			print("You lose.")
+			print("You lose..")
 			com_win += 1
 		if user == "Paper":
-			print("You win.")
+			print("You win")
 			user_win += 1
 	if computer == "Scissors":
 		if user == "Rock":
 			print("You win.")
 			user_win += 1
 		if user == "Scissors":
-			print("Draw.")
+			print("Draw!")
 		if user == "Paper":
-			print("You lose.")
+			print("You lose..")
 			com_win += 1
 	if computer == "Paper":
 		if user == "Rock":
-			print("You lose.")
+			print("You lose..")
 			com_win += 1
 		if user == "Scissors":
 			print("You win.")
 			user_win += 1
 		if user == "Paper":
-			print("Draw.")
+			print("Draw!")
 	i += 1
 
 print("10 games are over.")
