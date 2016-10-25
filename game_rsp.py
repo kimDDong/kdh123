@@ -24,7 +24,7 @@ while (i < 10):
 	print("============================")
 	if computer == "Rock":
 		if user == "Rock":
-			print("Draw.")
+			print("Draw!")
 		if user == "Scissors":
 			print("You lose.")
 			com_win += 1
